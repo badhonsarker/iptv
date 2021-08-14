@@ -243,6 +243,7 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
@@ -253,3 +254,27 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="DOCUMENTARY",Travel XP 
+https://aslive.club/cn/documentary/travelxp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="DOCUMENTARY",National Geographic
+https://aslive.club/cn/documentary/nationalgeo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DOCUMENTARY",Nat Geo Wild
+https://aslive.club/cn/documentary/natgeowild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery
+https://aslive.club/cn/documentary/discovery/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet
+https://aslive.club/cn/documentary/animalplanet/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="DOCUMENTARY",SONY BBC Earth
+https://aslive.club/cn/documentary/bbcearth/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIZyi7p.png" group-title="DOCUMENTARY",BBC Lifestyle
+https://aslive.club/cn/documentary/bbclife/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="DOCUMENTARY",Discovery Turbo
+https://aslive.club/cn/documentary/discoveryturbo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="DOCUMENTARY",TLC
+https://aslive.club/cn/documentary/tlc/chunks.m3u8
+
