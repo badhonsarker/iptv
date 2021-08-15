@@ -76,8 +76,8 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD Bangla
 http://103.81.104.118/hls/stream37.m3u8
-
-
+#EXTINF:-1 tvg-logo=                                  group-title="Bangla", AVP Annada
+https://list.iptvcat.com/my_list/s/36b9369f7619e0c104f29018487dda2a.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
@@ -260,10 +260,5 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="DOCUMENTARY",National Geographic
-https://aslive.club/cn/documentary/nationalgeo/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery
-https://aslive.club/cn/documentary/discovery/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet
-https://aslive.club/cn/documentary/animalplanet/chunks.m3u8
+
 
